@@ -5,8 +5,8 @@ namespace testas
     {
         static void Main(string[] args)
         {
-
-            ConsoleApp1.Programa myObj = new ConsoleApp1.Programa(5,1);
+//Komentaras
+            ConsoleApp1.Programa myObj = new ConsoleApp1.Programa(10,1);
 
             myObj.funkcija();
             myObj.factorio();
